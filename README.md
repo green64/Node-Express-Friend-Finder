@@ -22,7 +22,8 @@ Middleware in action:
 res.sendFile(path.join(__dirname, '../public/survey.html'));
 });
 ```
-[screen cap of working app](https://green64.github.io/Node-Express-Friend-Finder/app/public/assets/screen_cap_working.png)
+![screen cap of working app]
+(https://github.com/green64/Node-Express-Friend-Finder/blob/master/app/public/assets/screen_cap_working.png)
 
 This app was working ... something I tweaked while trying to get the modal portion finished broke it. I'm going to turn it in, walk away, and finish it another day.
 
