@@ -26,5 +26,7 @@ res.sendFile(path.join(__dirname, '../public/survey.html'));
 
 This app was working ... something I tweaked while trying to get the modal portion finished broke it. I'm going to turn it in, walk away, and finish it another day.
 
+***Update***
+Whoo hoo! A few projects later I fixed some broken code and my app's working now. On to the next challenge ...
 
 
