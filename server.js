@@ -7,11 +7,15 @@ var path = require("path");
 // Sets up the Express App and other variables
 // =============================================================
 var app = express();
+
+//port setting for local testing and server
 var PORT = process.env.PORT || 3000;
-var htmlRoutes = require("./routing/htmlRoutes")(app, path);
+// var htmlRoutes = require("./routing/htmlRoutes")(app, path);
 
 // Sets up the Express app to handle data parsing
 app.use(bodyParser.urlencoded({ extended: true }));
+
+//parse application/json
 app.use(bodyParser.json());
 
 // serve up static files

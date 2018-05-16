@@ -16,6 +16,22 @@ var friends =[
     ]
 },
 {
+  "name":"Smiley",
+  "photo":"http://i0.kym-cdn.com/photos/images/original/000/999/374/08a.jpg",
+  "scores":[
+      2,
+      1,
+      3,
+      2,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+},
+{
   "name":"Gemini",
   "photo":"http://www.petitepetpills.com/blog/wp-content/uploads/2011/09/cat-and-dog-omega.jpg",
   "scores":[
