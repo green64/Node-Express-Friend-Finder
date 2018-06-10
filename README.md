@@ -28,6 +28,6 @@ This app was working ... something I tweaked while trying to get the modal porti
 
 ***Update***
 
-Whoo hoo! A few projects later I fixed some broken code and my app's working now. On to the next challenge ...
+Whoo hoo! A few projects later I fixed some broken code and my app's working now. On to the next challenge ... :neckbeard:
 
 
